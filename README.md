@@ -9,7 +9,7 @@ I installed Tensorflow 2.2.0 and Pillow 7.1.2. List of packages can be found in 
 
 ## Exercises
 
-* Exercise_2: Predict house prices (TBA) 
+* Exercise_1: Predict house prices (TBA) 
 * Exercise_2: Implement MNIST classifier to recognise handwriting
 * Exercise_3: Improve MNIST clssifier with Convolutions
 * Exercise_4: Create a CNN that trains on images
